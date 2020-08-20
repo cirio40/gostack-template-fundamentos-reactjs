@@ -11,5 +11,5 @@ const Routes: React.FC = () => (
     <Route path="/import" component={Import} />
   </Switch>
 );
-
+console.log();
 export default Routes;
